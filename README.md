@@ -19,7 +19,7 @@ Note: As of conllu 4.0, Python 3.6 is required to install conllu. See [Notes on 
 pip install conllu
 ```
 
-Or, if you are using [conda](https://conda.io/docs/):
+Or, if you are using [conda]:
 
 ```bash
 conda install -c conda-forge conllu
