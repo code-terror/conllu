@@ -1,4 +1,4 @@
-project: code-terror/python-pinyin
+project: code-terror/pytils
 target: fuzzme
 
 cmds:
