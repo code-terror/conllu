@@ -1,6 +1,6 @@
-project: code-terror/pytils
-target: fuzzme
+project: conllu
+target: fuzz-parse
 
 cmds:
-  - cmd: python fuzzme.py
+  - cmd: python fuzz-parse.py
     libfuzzer: true
