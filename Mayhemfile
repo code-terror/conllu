@@ -2,5 +2,5 @@ project: conllu
 target: fuzz-parse
 
 cmds:
-  - cmd: python fuzz-parse.py
+  - cmd: fuzz-parse.py
     libfuzzer: true
