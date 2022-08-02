@@ -21,6 +21,8 @@ def TestOneInput(data):
             sentences=parse(fdp.ConsumeString(len(data)))
     except ParseException as e:
         pass
+    except RecursionError as f:
+        pass
 
 
 
